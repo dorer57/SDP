@@ -9,7 +9,6 @@ public class Main {
 
         toppings.add("Pepperoni");
         toppings.add("Mushrooms");
-        toppings.add("waddsad")
 
         Pizza pizza = new Pizza(
                 "Large",
